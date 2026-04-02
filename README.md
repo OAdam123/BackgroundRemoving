@@ -1,4 +1,4 @@
-# Chroma Key Image Processor (x64) 📸
+# BackgroundRemoving
 
 Aplikacja desktopowa typu **Chroma Key** (kluczowanie kolorem) służąca do usuwania tła z obrazów rastrowych. Projekt został stworzony w celu przeprowadzenia analizy porównawczej wydajności między kodem wysokopoziomowym (**C++**) a niskopoziomową optymalizacją wektorową (**Asembler x64**).
 
