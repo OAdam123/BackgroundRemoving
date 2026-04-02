@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UsuwanieTlaZObrazu": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
